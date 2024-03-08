@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](https://drive.google.com/file/d/14IZiFv-jPUuSNRwVQONvOcBeqYSD9khK/view?usp=sharing)
+
 
 
 
