@@ -75,7 +75,7 @@ __Python fundamentals__
 
 
 
-Skills: PYTHON / HTML 
+
 
 - 🔭 I’m currently working on Cyber-100 
 - 🌱 I’m currently learning SQ & ST 
