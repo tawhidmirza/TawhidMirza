@@ -7,10 +7,16 @@
 - [About me](#about-me)
 - [CV](#cv)
 - [Skills](#skills)
+- [SDLC](#SDLC)
+- [STLC](#STLC)
+- [Testing levels](#Testing levels)
+- [Testing Method](#Testing Method)
+- [Stages](#Stages)
 - [Tools](#tools)
 - [Examples of my work](#examples-of-my-work)
   * [Test cases](#test-cases)
   * [Bug reports](#bug-reports)
+    
 
 
 ## About me
@@ -25,8 +31,24 @@ I'm excited to put what I've learned into action by testing real products. This 
 
 - ## CV
 
-- 
+  
 You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1eeEUf1BZsGPtO_L58q95h1UJWZyvU93q/view?usp=sharing).
+
+
+## Skills
+
+You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
+
+
+__Manual testing__
+  * can perform Black Box Testing, SDLC, STLC, Testing Levels, Testing Method and Stages.
+  * gained hands-on experience by testing applications created for Cyber-100
+
+__Black Box Testing__
+* Black Box testing is like solving a puzzle without knowing how it works inside.
+* You check if the software does what it's supposed to do without peeking into its internal workings.
+* It's all about testing from a user's perspective, focusing on what the software does rather than how it's built.
+* This method helps find bugs and errors by simulating real user interactions, ensuring the software behaves as expected.
 
 
 
