@@ -49,6 +49,11 @@ __Test documentation__
   * can create test cases and checklists and know how and in which situations to use them effectively
   * able to prepare comprehensive bug reports and provide detailed session reports
 
+__Python fundamentals__
+  * can write simple functions and algorithms
+  * know when to use for and while
+  * able to comprehend easy codes
+
 
 
 
