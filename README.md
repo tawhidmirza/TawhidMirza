@@ -1,6 +1,8 @@
 ### Hi there 👋, I am Mirza MD Tawhid
-#### SQA and ST 
 Hello, I'm Mirza MD Tawhid , an enthusiastic graduate student with a strong interest in s software quality testing and software quality assurance. I'm on a mission to make a meaningful impact in the tech industry.
+
+#### SQA and ST 
+
 
 Skills: PYTHON / HTML 
 
