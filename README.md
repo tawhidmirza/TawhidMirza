@@ -75,7 +75,7 @@ __Python fundamentals__
 
 
 
-
+### Others
 
 - 🔭 I’m currently working on Cyber-100 
 - 🌱 I’m currently learning SQ & ST 
