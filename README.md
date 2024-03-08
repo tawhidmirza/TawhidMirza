@@ -50,6 +50,11 @@ __Black Box Testing__
 * It's all about testing from a user's perspective, focusing on what the software does rather than how it's built.
 * This method helps find bugs and errors by simulating real user interactions, ensuring the software behaves as expected.
 
+__Test documentation__
+  * can create test cases and checklists and know how and in which situations to use them effectively
+  * able to prepare comprehensive bug reports and provide detailed session reports
+
+
 
 
 
