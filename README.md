@@ -55,7 +55,14 @@ __Python fundamentals__
   * able to comprehend easy codes
 
 
+## Tools
 
+
+## Examples of my work
+
+### Test cases
+* Test case for checking the checkout process (in English). Check(https://docs.google.com/spreadsheets/d/10Vl_2OjFhFDAshOtkJnpvrKOVt7q2X6F/edit?usp=sharing&ouid=117780179072736361047&rtpof=true&sd=true)
+* 
 
 
 
