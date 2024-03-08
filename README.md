@@ -61,8 +61,9 @@ __Python fundamentals__
 ## Examples of my work
 
 ### Test cases
-* Test case for checking the checkout process (in English). Check(https://docs.google.com/spreadsheets/d/10Vl_2OjFhFDAshOtkJnpvrKOVt7q2X6F/edit?usp=sharing&ouid=117780179072736361047&rtpof=true&sd=true)
-* 
+* Test case for checking the Log in Page for Daraz (in English). Check(https://docs.google.com/spreadsheets/d/10Vl_2OjFhFDAshOtkJnpvrKOVt7q2X6F/edit?usp=sharing&ouid=117780179072736361047&rtpof=true&sd=true)
+* Test case for Flight Ticket Fare (in English). Check(https://drive.google.com/drive/folders/12sxELtNVvrkooFVDxyBJGpWxR8DpsY8F?usp=sharing)
+* Test case for School Management System (in English). Check(https://drive.google.com/drive/folders/13ZucFZnTRTktB_7GSY4DjQ8s40SEdROE?usp=drive_link)
 
 
 
