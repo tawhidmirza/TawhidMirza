@@ -65,6 +65,14 @@ __Python fundamentals__
 * Test case for Flight Ticket Fare (in English). Check(https://drive.google.com/drive/folders/12sxELtNVvrkooFVDxyBJGpWxR8DpsY8F?usp=sharing)
 * Test case for School Management System (in English). Check(https://drive.google.com/drive/folders/13ZucFZnTRTktB_7GSY4DjQ8s40SEdROE?usp=drive_link)
 
+### Bug reports
+- Several bugs found on [the Oracle Website](https://www.oracle.com/) and reported:
+ * Check (https://docs.google.com/document/d/1ekfMrt6YBn7XjjOocHOso0dwWCqeZfhF/edit?usp=sharing&ouid=117780179072736361047&rtpof=true&sd=true).
+- Several bugs found on [the Amazon Website](https://www.amazon.com/) and reported:
+ * Check (https://docs.google.com/document/d/1VFkoJShPmzbs3NnBncpFyiIKfswdIl9M/edit?usp=sharing&ouid=117780179072736361047&rtpof=true&sd=true).
+
+   
+
 
 
 Skills: PYTHON / HTML 
