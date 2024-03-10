@@ -61,6 +61,11 @@ __Python fundamentals__
 
 ## Tools
 
+__TestRail__
+  * know how to create test cases and test suits
+  * able to run created test cases
+  * know how to set Milestones and Reports
+
 
 ## Examples of my work
 
@@ -68,6 +73,11 @@ __Python fundamentals__
 * Test case for checking the Log in Page for Daraz (in English). Check(https://docs.google.com/spreadsheets/d/10Vl_2OjFhFDAshOtkJnpvrKOVt7q2X6F/edit?usp=sharing&ouid=117780179072736361047&rtpof=true&sd=true)
 * Test case for Flight Ticket Fare (in English). Check(https://drive.google.com/drive/folders/12sxELtNVvrkooFVDxyBJGpWxR8DpsY8F?usp=sharing)
 * Test case for School Management System (in English). Check(https://drive.google.com/drive/folders/13ZucFZnTRTktB_7GSY4DjQ8s40SEdROE?usp=drive_link)
+
+### Test cases and work in TestRail
+
+- [Car Insurance]
+  * Test case for Calculate the monthly insurance premium for drivers (in English). Check (https://learnbytawhid.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
 
 ### Bug reports
 - Several bugs found on [the Oracle Website](https://www.oracle.com/) and reported:
