@@ -79,8 +79,7 @@ __TestRail__
 - [Car Insurance]
   * Test case for Calculate the monthly insurance premium for drivers (in English). Check (https://learnbytawhid.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
  - [Home rental system registraation page]
-  * Test case for registration page (in English). Check (- [Car Insurance]
-  * Test case for Calculate the monthly insurance premium for drivers (in English). Check (https://learnbytawhid.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&display_deleted_cases=0))
+  * Test case for registration page (in English). Check (https://learnbytawhid.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&display_deleted_cases=0))
 
 ### Bug reports
 - Several bugs found on [the Oracle Website](https://www.oracle.com/) and reported:
