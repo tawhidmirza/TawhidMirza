@@ -66,6 +66,11 @@ __TestRail__
   * able to run created test cases
   * know how to set Milestones and Reports
 
+__TestLodge__
+  * know how to create test cases and test suits
+  * able to run created test cases
+  * know how to set Milestones and Reports
+
 
 ## Examples of my work
 
@@ -80,6 +85,14 @@ __TestRail__
   * Test case for Calculate the monthly insurance premium for drivers (in English). Check (https://learnbytawhid.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
 - [Home rental system registration page]
   * Test case for registration page (in English). Check (https://learnbytawhid.testrail.io/index.php?/suites/view/1&group_by=cases:section_id&group_order=asc&display_deleted_cases=0))
+ 
+### Test cases and work in TestLodge
+- [Internet Service Provider]
+  * Test case for Registration and Log in Page (in English). Check (https://tawhid.testmonitor.com/intern/design/test-suites)
+- [Home Rentel System]
+  * Test case for admin,Homeowner and Homebuyer/home renteler (in English). Check (https://tawhid.testmonitor.com/home-r/design/test-suites)
+
+
 
 ### Bug reports
 - Several bugs found on [the Oracle Website](https://www.oracle.com/) and reported:
