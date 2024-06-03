@@ -31,7 +31,7 @@ I'm excited to put what I've learned into action by testing real products. This 
 - ## CV
 
   
-You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1eeEUf1BZsGPtO_L58q95h1UJWZyvU93q/view?usp=sharing).
+You can download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1zGeha9tbMuBc-kLW5Jab0-6MEt5FT9yU/view?usp=sharing).
 
 
 ## Skills
